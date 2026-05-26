@@ -1,58 +1,51 @@
-# Hi there, I'm a Software Developer! 👋
+# Nimshi CP
 
-I am a passionate Full-Stack Developer specializing in frontend engineering. I love building clean, high-performance web applications, optimizing user experiences, and turning complex problems into elegant, scalable code. 
-
----
-
-### 🚀 What I Do
-*   **Frontend Development:** Crafting responsive, accessible, and fast user interfaces using modern frameworks.
-*   **Backend & APIs:** Designing robust server-side architectures and efficient database schemas.
-*   **Performance Optimization:** Fine-tuning web apps via code-splitting, lazy loading, and query optimization.
+**Software Developer | Frontend & Full-Stack Engineering**  
+Malappuram, Kerala, India • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) • [Email](mailto:your.email@example.com)
 
 ---
 
-### 💻 Tech Stack & Tools
+### ✒️ Profile
+A meticulous Software Developer dedicated to building high-performance, responsive, and visually refined web applications. Specializing in modern frontend ecosystems with robust full-stack integration, I focus on writing clean, maintainable architecture, optimizing user experiences, and streamlining application performance.
 
-| Category | Technologies |
+---
+
+### 💻 Core Expertise
+
+*   **Frontend Architecture:** Developing modular, scalable UI systems using component-driven development and strict state management.
+*   **Full-Stack Integration:** Designing seamless RESTful APIs, securing authentication flows, and structured database modeling.
+*   **Performance Optimization:** Implementing advanced rendering strategies, resource lazy-loading, code-splitting, and query indexing.
+
+---
+
+### 🛠️ Technical Matrix
+
+| Layer | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend & DB** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Tools & DevOps**| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Databases** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **Workflow & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-### 🛠️ Featured Projects
+### 🔬 Featured Implementations
 
-#### 🌟 **Project One: Medical Dashboard Application**
-*   **Description:** A comprehensive, full-stack medical dashboard designed for seamless data visualization and management.
-*   **Tech Stack:** React, Redux, Django, PostgreSQL, JWT Authentication.
-*   **Key Features:** Secure role-based authentication, background task processing, and optimized database indexing for real-time data streaming.
-*   *🔗 [Live Demo](#) | [Source Code](#)*
+#### 📂 **MedDash | Full-Stack Medical Dashboard**
+> A comprehensive administration and visualization dashboard engineered for efficient data oversight and background task management.
+*   **Architecture:** React, Redux, Django, PostgreSQL
+*   **Key Contributions:** Implemented secure JWT-based role authentication, engineered efficient background processing schedules, and optimized database indexing to ensure seamless real-time data streaming.
+*   *🔗 [Repository Source Code](#)*
 
-#### 🛍️ **Project Two: E-Commerce Platform**
-*   **Description:** A niche, high-performance e-commerce storefront featuring an interactive UI, state management, and smooth checkout workflows.
-*   **Tech Stack:** React, Tailwind CSS, Django REST Framework.
-*   **Key Features:** Advanced product filtering, modular component architecture, and lazy-loaded assets for blazing-fast load times.
-*   *🔗 [Live Demo](#) | [Source Code](#)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
+#### 📂 **Fiora Scents | E-Commerce Platform**
+> A tailored, highly responsive e-commerce application developed with an emphasis on fluid user interaction and modular UI components.
+*   **Architecture:** React, Tailwind CSS, Django REST Framework
+*   **Key Contributions:** Built advanced client-side product filtering structures, established persistent state management, and deployed lazy-loaded asset management to drastically minimize initial page load latency.
+*   *🔗 [Repository Source Code](#)*
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Professional Engagement
+I am consistently open to technical discussions, architectural deep-dives, and collaborative full-stack opportunities. 
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+*   **Connect via LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+*   **Professional Correspondence:** [your.email@example.com](mailto:your.email@example.com)
