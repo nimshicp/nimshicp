@@ -47,5 +47,5 @@ A meticulous Software Developer dedicated to building high-performance, responsi
 ### 🤝 Professional Engagement
 I am consistently open to technical discussions, architectural deep-dives, and collaborative full-stack opportunities. 
 
-*   **Connect via LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nimshicp/)
-*   **Professional Correspondence:** [your.email@example.com](mailto:your.nimshicp2003@gmail.com)
+*   **Connect via LinkedIn:** [https://www.linkedin.com/in/nimshicp/](https://www.linkedin.com/in/nimshicp/)
+*   **Professional Correspondence:** [nimshicp2003@gmail.com](mailto:nimshicp2003@gmail.com)
