@@ -1,7 +1,7 @@
 # Nimshi CP
 
 **Software Developer | Frontend & Full-Stack Engineering**  
-Malappuram, Kerala, India • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) • [Email](mailto:your.email@example.com)
+Malappuram, Kerala, India • [LinkedIn](https://www.linkedin.com/in/nimshicp/) • [Email](mailto:nimshicp2003@gmail.com)
 
 ---
 
@@ -47,5 +47,5 @@ A meticulous Software Developer dedicated to building high-performance, responsi
 ### 🤝 Professional Engagement
 I am consistently open to technical discussions, architectural deep-dives, and collaborative full-stack opportunities. 
 
-*   **Connect via LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-*   **Professional Correspondence:** [your.email@example.com](mailto:your.email@example.com)
+*   **Connect via LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nimshicp/)
+*   **Professional Correspondence:** [your.email@example.com](mailto:your.nimshicp2003@gmail.com)
