@@ -12,9 +12,9 @@ A meticulous Software Developer dedicated to building high-performance, responsi
 
 ### 💻 Core Expertise
 
-*   **Frontend Architecture:** Developing modular, scalable UI systems using component-driven development and strict state management.
-*   **Full-Stack Integration:** Designing seamless RESTful APIs, securing authentication flows, and structured database modeling.
-*   **Performance Optimization:** Implementing advanced rendering strategies, resource lazy-loading, code-splitting, and query indexing.
+* **Frontend Architecture:** Developing modular, scalable UI systems using component-driven development and strict state management.
+* **Full-Stack Integration:** Designing seamless RESTful APIs, securing authentication flows, and structured database modeling.
+* **Performance Optimization:** Implementing advanced rendering strategies, resource lazy-loading, code-splitting, and query indexing.
 
 ---
 
@@ -30,22 +30,24 @@ A meticulous Software Developer dedicated to building high-performance, responsi
 
 ### 🔬 Featured Implementations
 
-#### 📂 **MedDash | Full-Stack Medical Dashboard**
-> A comprehensive administration and visualization dashboard engineered for efficient data oversight and background task management.
-*   **Architecture:** React, Redux, Django, PostgreSQL
-*   **Key Contributions:** Implemented secure JWT-based role authentication, engineered efficient background processing schedules, and optimized database indexing to ensure seamless real-time data streaming.
-*   *🔗 [Repository Source Code](#)*
+#### 📂 **Multi-Tenant Document Intelligence Platform**
+> A scalable document management and retrieval platform engineered for secure multi-tenant data isolation and AI-powered document intelligence.
+
+* **Architecture:** Django REST Framework, FastAPI, PostgreSQL, pgvector, Docker
+* **Key Contributions:** Implemented schema-based multi-tenancy with secure tenant isolation, developed document upload and semantic search APIs using pgvector embeddings, integrated asynchronous processing services, and containerized the application stack using Docker for streamlined deployment and scalability.
+* **Repository:** [MultiTenant-Saas](https://github.com/nimshicp/MultiTenant-Saas)
 
 #### 📂 **Fiora Scents | E-Commerce Platform**
 > A tailored, highly responsive e-commerce application developed with an emphasis on fluid user interaction and modular UI components.
-*   **Architecture:** React, Tailwind CSS, Django REST Framework
-*   **Key Contributions:** Built advanced client-side product filtering structures, established persistent state management, and deployed lazy-loaded asset management to drastically minimize initial page load latency.
-*   *🔗 [Repository Source Code](#)*
+
+* **Architecture:** React, Tailwind CSS, Django REST Framework
+* **Key Contributions:** Built advanced client-side product filtering structures, established persistent state management, and deployed lazy-loaded asset management to drastically minimize initial page load latency.
+* *🔗 [Repository Source Code](#)*
 
 ---
 
 ### 🤝 Professional Engagement
-I am consistently open to technical discussions, architectural deep-dives, and collaborative full-stack opportunities. 
+I am consistently open to technical discussions, architectural deep-dives, and collaborative full-stack opportunities.
 
-*   **Connect via LinkedIn:** [https://www.linkedin.com/in/nimshicp/](https://www.linkedin.com/in/nimshicp/)
-*   **Professional Correspondence:** [nimshicp2003@gmail.com](mailto:nimshicp2003@gmail.com)
+* **Connect via LinkedIn:** [https://www.linkedin.com/in/nimshicp/](https://www.linkedin.com/in/nimshicp/)
+* **Professional Correspondence:** [nimshicp2003@gmail.com](mailto:nimshicp2003@gmail.com)
