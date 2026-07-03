@@ -18,7 +18,7 @@ A meticulous Software Developer dedicated to building high-performance, responsi
 
 ---
 
-### 🛠️ Technical Matrix
+### 🛠️ Technical 
 
 | Layer | Technologies |
 | :--- | :--- |
